@@ -1,0 +1,3 @@
+﻿  МРСКБОЙ.cpp
+C:\Users\akimo\Documents\С++\дзШаг\морской_бой\морской_бой\МРСКБОЙ.cpp(396,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  морской_бой.vcxproj -> C:\Users\akimo\Documents\С++\дзШаг\морской_бой\x64\Debug\морской_бой.exe
